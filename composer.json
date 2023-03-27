@@ -1,0 +1,19 @@
+{
+  "name": "nfservice/piperun",
+  "description": "Biblioteca base para comunicaçao com a API do Piperun",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "NFService\\Piperun\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Henrique Ernandes",
+      "email": "rebeloehenrique@hotmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
+}
