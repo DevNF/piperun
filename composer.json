@@ -5,7 +5,7 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "Nfservice\\Piperun\\": "src/"
+      "NFService\\Piperun\\": "src/"
     }
   },
   "authors": [
