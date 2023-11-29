@@ -680,7 +680,7 @@ class Tools
             }, ARRAY_FILTER_USE_BOTH);
             $params[] = [
                 'name' => 'custom_fields[427888]', //custom field criado no piperun
-                'value' => $conta_id
+                'value' => "'$conta_id'"
             ];
             $params[] = [
                 'name' => 'with', //custom field criado no piperun
